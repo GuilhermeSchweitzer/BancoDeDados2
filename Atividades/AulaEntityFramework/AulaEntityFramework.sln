@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
+VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaEntityFramework", "AulaEntityFramework.csproj", "{2984499D-6A40-48FB-890F-F7938E059F72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaEntityFramework", "AulaEntityFramework.csproj", "{80168CF0-9611-435B-8084-CB1D65FB8E10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2984499D-6A40-48FB-890F-F7938E059F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2984499D-6A40-48FB-890F-F7938E059F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2984499D-6A40-48FB-890F-F7938E059F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2984499D-6A40-48FB-890F-F7938E059F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80168CF0-9611-435B-8084-CB1D65FB8E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80168CF0-9611-435B-8084-CB1D65FB8E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80168CF0-9611-435B-8084-CB1D65FB8E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80168CF0-9611-435B-8084-CB1D65FB8E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A92CA3D0-F15F-47D0-8D56-172DB4D9CA96}
+		SolutionGuid = {B1D397A6-0844-48BE-BBB7-C40BE13C79E9}
 	EndGlobalSection
 EndGlobal
